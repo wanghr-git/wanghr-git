@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently a student on China University of Geosciences (Wuhan)
+- 🌱 I’m currently learning Remote Sensing Image Processing
+- 📫 How to reach me: WangHr@cug.edu.cn
