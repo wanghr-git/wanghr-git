@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a student on China University of Geosciences (Wuhan)
 - 🌱 I’m currently learning Remote Sensing Image Processing
 - 📫 How to reach me: WangHr@cug.edu.cn
+- ⚡ I’m a data contest enthusiast.
+  1. I once won the TOP2 in the RSIPAC 2022 Remote Sensing Semantic Segmentation competition.
 
 | <a href="https://github.com/wanghr-git"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wanghr-git&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="WangHr's github stats" /></a> | <a href="https://github.com/wanghr-git"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghr-git&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
