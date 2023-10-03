@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently a student on AIRCAS
-- 🌱 I’m currently learning Remote Sensing Image Processing
+- 🌱 I’m currently learning Remote Sensing Image Processing & Multimodal Foundation Models
 - 📫 How to reach me: wanghaoran23@mails.ucas.ac.cn
 - ⚡ I’m a data contest enthusiast.
   1. I once won the TOP2 in the RSIPAC 2022 Remote Sensing Semantic Segmentation Track.
