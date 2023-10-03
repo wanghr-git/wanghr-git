@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently a student on AIRCAS
 - 🌱 I’m currently learning Remote Sensing Image Processing
-- 📫 How to reach me: WangHr@cug.edu.cn
+- 📫 How to reach me: wanghaoran23@mails.ucas.ac.cn
 - ⚡ I’m a data contest enthusiast.
   1. I once won the TOP2 in the RSIPAC 2022 Remote Sensing Semantic Segmentation Track.
   2. I once won the TOP3 in the Tianzhi Cup Visible Light Building Change Detection Track
+  3. I once won the TOP2 in the RSIPAC 2023 Remote Sensing Innovative Application Track
 
 | <a href="https://github.com/wanghr-git"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wanghr-git&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="WangHr's github stats" /></a> | <a href="https://github.com/wanghr-git"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghr-git&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
